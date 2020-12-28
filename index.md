@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Talleres del curso de R por el profesor: Alonso Molina
 
-You can use the [editor on GitHub](https://github.com/magisterDataScienceUAI/LenguajeR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este repositorio podrá ver todos los trabajos solicitados por la universidad  en esta ocasión el taller Nº2.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Advertencia:** Para actividad Nº3, favor tener pacienca, lamentablemente se llegó al resultado de una manera no muy óptima y puede tomar un tiempo considerable.
 
-### Markdown
+### Taller 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Se devidio el trabajo en 03 archivos asociados al número de la actividad.
 
 ```markdown
-Syntax highlighted code block
+Los códigos:
 
-# Header 1
-## Header 2
-### Header 3
+[Actividad 1](https://github.com/magisterDataScienceUAI/LenguajeR/blob/main/Taller%202/Taller2_part1.R)
+[Actividad 2](https://github.com/magisterDataScienceUAI/LenguajeR/blob/main/Taller%202/Taller2.R)
+[Actividad 3](https://github.com/magisterDataScienceUAI/LenguajeR/blob/main/Taller%202/Taller2_part3.R)
 
-- Bulleted
-- List
+- Para la actividad 1, solamente se tomo el código del taller 1 y se actualizo los campos: "REG","HAB","DEF".
+- En la actividad 2, se utilizaron las siguientes librerías:
 
-1. Numbered
-2. List
+1.library(tidyverse)
+2.library(readxl)
+3.library(dplyr)
 
-**Bold** and _Italic_ and `Code` text
+- En la actividad 3, se realizo de una manera carretera por así llamarla, se seleccionaron los campos a trabajar y posteriormente se unieron las columnas y se pasa a un vector. Con este vector se ordena y es de tipo date, entonces se usa un ciclo y se contabilizan todas las fechas que estén entre Enero 2017 y la fecha ingresada.
 
-[Link](url) and ![Image](src)
-```
+Para ver el Kanban del proyecto: [Kanban](https://github.com/magisterDataScienceUAI/LenguajeR/projects/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magisterDataScienceUAI/LenguajeR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
