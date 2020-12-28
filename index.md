@@ -8,7 +8,6 @@ En este repositorio podrá ver todos los trabajos solicitados por la universidad
 
 Se devidio el trabajo en 03 archivos asociados al número de la actividad.
 
-```markdown
 Los códigos:
 
 [Actividad 1](https://github.com/magisterDataScienceUAI/LenguajeR/blob/main/Taller%202/Taller2_part1.R)
