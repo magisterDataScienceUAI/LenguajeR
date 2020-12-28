@@ -1,4 +1,4 @@
-## Talleres del curso de R por el profesor: Alonso Molina
+## Talleres del curso de R.
 
 En este repositorio podrá ver todos los trabajos solicitados por la universidad  en esta ocasión el taller Nº2.
 
